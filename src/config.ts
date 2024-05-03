@@ -7,8 +7,8 @@ import type {
 import { LinkPreset } from './types/config'
 
 export const siteConfig: SiteConfig = {
-  title: 'Fuwari',
-  subtitle: 'Demo Site',
+  title: 'Aedotris | Blog',
+  subtitle: 'Aedotris | Blog',
   lang: 'en',
   themeHue: 250,
   banner: {
@@ -24,32 +24,43 @@ export const navBarConfig: NavBarConfig = {
     LinkPreset.About,
     {
       name: 'GitHub',
-      url: 'https://github.com/saicaca/fuwari',
+      url: 'https://github.com/levinhkhangzz/AedotrisZ-',
       external: true,
     },
   ],
 }
 
 export const profileConfig: ProfileConfig = {
-  avatar: 'assets/images/demo-avatar.png',
-  name: 'Lorem Ipsum',
-  bio: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
+  avatar: 'https://i.ibb.co/QnnHWWW/IMG-8490.jpg',
+  name: 'Aedotris',
+  bio: 'I am a guy passionate about software creativity.',
   links: [
     {
       name: 'Twitter',
       icon: 'fa6-brands:twitter',
-      url: 'https://twitter.com',
+      url: 'https://twitter.com/A3d0tr1sZ',
     },
     {
-      name: 'Steam',
+      name: 'Github',
       icon: 'fa6-brands:steam',
-      url: 'https://store.steampowered.com',
+      url: 'https://github.com/levinhkhangzz',
     },
     {
-      name: 'GitHub',
-      icon: 'fa6-brands:github',
-      url: 'https://github.com/saicaca/fuwari',
+      name: 'Facebook',
+      icon: 'fa6-brands:facebook',
+      url: 'https://www.facebook.com/profile.php?id=199717642',
     },
+    {
+      name: 'Instagram',
+      icon: 'fa6-brands:instagram',
+      url: 'https://www.instagram.com/williamcachamwri',
+    },
+        {
+      name: 'Telegram',
+      icon: 'fa6-brands:telegram',
+      url: 'https://t.me/NotYourParentsX',
+    },
+    
   ],
 }
 
