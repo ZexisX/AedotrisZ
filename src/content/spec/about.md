@@ -1,10 +1,8 @@
 # About
 
 Welcome to my website. I’m Aedotris, a mysterious individual whose talents and contributions remain shrouded in enigma. Explore and uncover the secrets within.
-[Aedotris](https://github.com/levinhkhangzz/AedotrisZ)
-
-::github{repo="levinhkhangzz/personal-website"}
-
+[Aedotris](https://github.com/;evinhkhangzz/AedotrisZ)
+::github{repo="saicaca/fuwari"}
 ```javascript
 class Aedotris {}
 
